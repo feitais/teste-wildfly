@@ -1,0 +1,8 @@
+/home/feitais/enviroment/jee-workspace/teste/src/main/java/br/net/oi/teste/controller/MemberController.java
+/home/feitais/enviroment/jee-workspace/teste/src/main/java/br/net/oi/teste/data/MemberRepository.java
+/home/feitais/enviroment/jee-workspace/teste/src/main/java/br/net/oi/teste/rest/JaxRsActivator.java
+/home/feitais/enviroment/jee-workspace/teste/src/main/java/br/net/oi/teste/util/Resources.java
+/home/feitais/enviroment/jee-workspace/teste/src/main/java/br/net/oi/teste/data/MemberListProducer.java
+/home/feitais/enviroment/jee-workspace/teste/src/main/java/br/net/oi/teste/rest/MemberResourceRESTService.java
+/home/feitais/enviroment/jee-workspace/teste/src/main/java/br/net/oi/teste/model/Member.java
+/home/feitais/enviroment/jee-workspace/teste/src/main/java/br/net/oi/teste/service/MemberRegistration.java
